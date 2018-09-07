@@ -1,0 +1,21 @@
+body {
+    width:300px;
+    height:300px;
+}
+
+#newUrl {
+    width: 200px;
+}
+
+.deleteButton {
+    border: none;
+    color: red;
+}
+
+.deleteButton:focus {
+    outline: none;
+}
+
+ol li span {
+    word-wrap: break-word;
+}
